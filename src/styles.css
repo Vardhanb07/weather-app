@@ -24,8 +24,7 @@ form {
   align-items: center;
   gap: 10px;
 }
-input[type="text"] {
-  height: 33px;
+#location {
   outline: none;
   padding: 0 0 0 5px;
   font-size: 20px;
@@ -33,6 +32,7 @@ input[type="text"] {
   border-width: 1px;
   border-radius: 3px;
   color: #3f72af;
+  height: 34px;
 }
 input[type="submit"] {
   font-size: 22px;
